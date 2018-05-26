@@ -5,7 +5,7 @@
   left                : 145px;
   position            : relative;
 }
-.icon {
+.add .icon {
   top                 : 16px;
   height              : 19px;
   width               : 18px;
@@ -13,7 +13,7 @@
   margin              : 0;
   left                : 34px;
 }
-.pay {
+.add .pay {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 63px;
   height              : auto;

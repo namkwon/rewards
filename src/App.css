@@ -1,8 +1,27 @@
 .app {
-  width               : 100%;
-  min-width           : 375px;
-  height              : 100vh;
-  min-height          : 812px;
+  width               : 375px;
+  height              : 100%;
+  margin:auto;
+  background-color    : #F5F5F5;
+}
+.app .header {
+  position            :relative;
+}
+.bg {
+  top                 : 0px;
+  height              : 375px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
   overflow            : hidden;
-  margin              : 0px;
+  background          : #F5F5F5;
+}
+.oval2 {
+  top                 : -179px;
+  height              : 552px;
+  width               : 552px;
+  position            : absolute;
+  margin              : 0;
+  left                : -127px;
 }

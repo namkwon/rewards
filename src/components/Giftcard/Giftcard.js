@@ -3,7 +3,7 @@ import './Giftcard.css';
 
 export default function Giftcard({giftcard}) {
   const {vendor_name, reward_type, value, logo} = giftcard;
-  
+
     return (
       <div className="gift-card">
           <div className="vendor">

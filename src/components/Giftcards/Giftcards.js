@@ -2,7 +2,7 @@ import React from 'react';
 import Giftcard from '../Giftcard/Giftcard';
 import './Giftcards.css';
 
-export default function Giftcards({giftcards, total_pages, page}) {
+export default function Giftcards({giftcards}) {
     const renderGiftcards = giftcards.map((giftcard) => {
       return(
         <Giftcard key={giftcard.id} giftcard={giftcard} />
