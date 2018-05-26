@@ -1,0 +1,28 @@
+.slider {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 102px;
+  height              : 5px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+}
+.a3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+}
+.a2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  opacity             : 0.25;
+}

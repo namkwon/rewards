@@ -1,0 +1,32 @@
+.fixed {
+  position            :relative;
+  height              : 375px;
+  width               : 375px;
+}
+.top-bar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 80px;
+  width               : 348px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+}
+.sidelist {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 15px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.top-bar .thumb {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+}

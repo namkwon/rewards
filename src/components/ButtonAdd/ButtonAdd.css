@@ -1,0 +1,32 @@
+.add {
+  top                 : 5px;
+  height              : 89px;
+  width               : 86px;
+  left                : 145px;
+  position            : relative;
+}
+.icon {
+  top                 : 16px;
+  height              : 19px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.pay {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(31, 121, 184, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.07px;
+  line-height         : 10.0px;
+}

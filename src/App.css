@@ -1,0 +1,8 @@
+.app {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 812px;
+  overflow            : hidden;
+  margin              : 0px;
+}

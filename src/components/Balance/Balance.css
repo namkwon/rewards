@@ -1,0 +1,191 @@
+.balance {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 127px;
+  height              : 241px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+
+.base {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 241px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+
+.icon1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 40px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 322px;
+}
+
+.fill12 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.fill14 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 20px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.fill16 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 28px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.budget {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 87px;
+  height              : 94px;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+}
+.a3-cards {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 77px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  opacity             : 0.5;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.amount {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  opacity             : 0.75;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.a00 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  opacity             : 0.75;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.a280 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 200;
+  font-style          : normal;
+  font-size           : 64.0px;
+  color               : rgba(57, 57, 57, 1.0);
+  text-align          : left;
+  line-height         : 78.0px;
+}
+.label1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  opacity             : 0.75;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.title {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 41px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+}
+.today21-feb {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.rewards-balance {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(57, 57, 57, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
